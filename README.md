@@ -1,4 +1,4 @@
-# Maria eduarda pereira araujo
+# Maria Eduarda Pereira Araujo
 > Estudante de Analise de Desenvolvimento de Sistemas
 ---
 ### 📫 Contato & Redes Sociais
