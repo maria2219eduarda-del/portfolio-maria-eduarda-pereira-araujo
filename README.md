@@ -3,10 +3,8 @@
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-araújo-8a1725225)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge
-&logo=gmail&logoColor=white)](mailto:maria2219eduarda@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-th
-e-badge&logo=read-the-docs&logoColor=white)](./Curriculo_Maria_Eduarda_Aprimorado.pdf)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria2219eduarda@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./Curriculo_Maria_Eduarda_Aprimorado.pdf)
 ---
 ### 👨‍💻 Sobre
 Atualmente cursando o 2º período de Analise de Desenvolvimento de Sistemas na UNICID - Universidade Cidade de São Paulo 
