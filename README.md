@@ -38,21 +38,24 @@ Modelagem de Banco de Dados (em aprendizado).
 
 ### 📂 Portfólio de Projetos
 
-#### 🧑‍💻 Desenvolvimento Front-End para Web
+#### 🧑‍💻 Projetos Desenvolvidos
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Site Básico em HTML5** | Criação de site básico com 5 páginas em HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
-| **Deploy de Site** | Publicação de site no GitHub Pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
-| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
-| **Site com Bootstrap** | Aplicação do Bootstrap para desenvolver um site com múltiplas páginas. | [Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
-| **Desenvolvimento com IA** | Desenvolvimento Front-End com auxílio de inteligência artificial. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+| **Guia de Sabores** | Desenvolvimento de um site cultural e gastronômico utilizando HTML, CSS e Bootstrap. | [Ver Projeto](https://github.com/maria2219eduarda-del/Guia-de-Sabores) |
+| **Site** | Projeto de desenvolvimento web. | [Ver Projeto](https://github.com/maria2219eduarda-del/site.-) |
+| **Meu Dicionário** | Projeto Meu Dicionário. | [Ver Projeto](https://github.com/maria2219eduarda-del/meu-dicionario) |
+| **Atividade de Criptografia** | Projeto acadêmico de criptografia. | [Ver Projeto](https://github.com/maria2219eduarda-del/Atividade.Criptografia) |
+| **Atividade de Criptografia 2** | Segundo repositório de atividade de criptografia. | [Ver Projeto](https://github.com/maria2219eduarda-del/Atividade-Criptografia..) |
 
 #### 🗃️ Modelagem de Banco de Dados
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gerenciamento de Salão de Beleza** | Documentação de requisitos, regras de negócio e modelagem de banco de dados para um salão de beleza. | [Ver Projeto](./projeto-banco-dados/) |
+| **Sistema de Gerenciamento de Salão de Beleza** | Documentação de requisitos, regras de negócio e modelagem de banco de dados. | Link a adicionar |
+
+---
+
 
 ---
 
