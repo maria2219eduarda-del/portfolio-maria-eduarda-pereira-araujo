@@ -43,7 +43,7 @@ Modelagem de Banco de Dados (em aprendizado).
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Guia de Sabores** | Desenvolvimento de um site cultural e gastronômico utilizando HTML, CSS e Bootstrap. | [Ver Projeto](https://maria2219eduarda-del.github.io/Guia-de-Sabores/) |
-| **Site** | Projeto de desenvolvimento web. | [Ver Projeto](https://github.com/maria2219eduarda-del/site.-) |
+| **Site** | Projeto de desenvolvimento web. | [Ver Projeto](https://maria2219eduarda-del.github.io/site.-/) |
 | **Meu Dicionário** | Projeto Meu Dicionário. | [Ver Projeto](https://github.com/maria2219eduarda-del/meu-dicionario) |
 | **Atividade de Criptografia** | Projeto acadêmico de criptografia. | [Ver Projeto](https://github.com/maria2219eduarda-del/Atividade.Criptografia) |
 | **Atividade de Criptografia 2** | Segundo repositório de atividade de criptografia. | [Ver Projeto](https://github.com/maria2219eduarda-del/Atividade-Criptografia..) |
